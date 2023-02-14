@@ -1,0 +1,260 @@
+ID,n_category,subcategory,product,vegan,glutenfree,ketofriendly,vegetarian,organic,dairyfree,sugarconscious,paleofriendly,wholefoodsdiet,lowsodium,kosher,lowfat,engine2,local,price,caloriesperserving,servingsize,servingsizeunits,totalsize,n_totalsizeunits,totalsecondarysize,secondarysizeunits,liquid,abv,quantity,DollarPerGramm,health_status
+1,Produce,"Fresh Vegetables","Organic Yellow Bell Pepper",1,1,1,1,1,1,1,1,1,1,0,1,1,0,399,12,46,g,46,g,46,g,0,NULL,NULL,0.08673913043478261,healthy
+2,Produce,"Fresh Fruits","Red Cherries",1,1,0,1,0,1,0,1,1,1,0,1,1,0,799,87,138,g,138,g,138,g,0,NULL,NULL,0.05789855072463768,healthy
+3,Produce,"Fresh Herbs","Organic Mint Bunch",1,1,1,1,1,1,1,1,1,1,0,1,1,0,199,5,11,g,11,g,11,g,0,NULL,NULL,0.1809090909090909,healthy
+4,Produce,"Fresh Vegetables","Organic Red Cabbage",1,1,1,1,1,1,1,1,1,1,0,1,1,0,199,28,89,g,89,g,89,g,0,NULL,NULL,0.022359550561797753,healthy
+5,Produce,"Fresh Vegetables","Organic Yellow Onion",1,1,1,1,1,1,1,1,1,1,0,1,1,0,249,32,80,g,80,g,80,g,0,NULL,NULL,0.031125,healthy
+6,Produce,"Fresh Vegetables","Mini Cucumbers",1,1,1,1,0,1,1,1,1,1,0,1,1,0,299,16,53,g,106,g,106,g,0,NULL,NULL,0.02820754716981132,healthy
+7,Produce,"Fresh Vegetables","Organic Radicchio",1,1,1,1,1,1,1,1,1,0,0,1,1,0,499,9,40,g,40,g,40,g,0,NULL,NULL,0.12475,healthy
+8,Produce,"Fresh Fruits","Organic Minneola Tangelo",1,1,0,1,1,1,0,1,1,1,0,1,1,0,299,47,88,g,88,g,88,g,0,NULL,NULL,0.03397727272727273,healthy
+9,Produce,"Fresh Fruits","Organic Large Hass Avocados",1,1,1,1,1,1,1,1,1,1,0,1,1,0,299,80,50,g,200,g,200,g,0,NULL,NULL,0.014950000000000001,healthy
+10,Produce,"Fresh Vegetables","Morel Mushrooms",1,1,1,1,0,1,0,1,1,1,0,1,1,0,2349,25,7,g,14,g,14,g,0,NULL,NULL,1.6778571428571427,healthy
+11,Produce,"Fresh Vegetables","Organic Butternut Squash",1,1,0,1,1,1,1,1,1,1,0,1,1,0,199,63,140,g,140,g,140,g,0,NULL,NULL,0.014214285714285714,healthy
+12,Produce,"Fresh Fruits","Organic Blackberries",1,1,1,1,1,1,0,1,1,1,0,1,1,0,599,62,144,g,144,g,144,g,0,NULL,NULL,0.04159722222222222,healthy
+13,Produce,"Fresh Fruits",Lime,1,1,1,1,0,1,1,1,1,1,0,1,1,0,69,20,67,g,67,g,67,g,0,NULL,NULL,0.010298507462686568,healthy
+14,Produce,"Fresh Fruits","Bagged Lemons",1,1,1,1,0,1,1,1,1,1,0,1,1,0,399,17,58,g,907,g,907,g,0,NULL,NULL,0.004399117971334068,healthy
+15,Produce,"Fresh Vegetables","Organic Leeks",1,1,1,1,1,1,1,1,1,1,0,1,1,0,299,54,89,g,89,g,89,g,0,NULL,NULL,0.03359550561797753,healthy
+16,Produce,"Fresh Vegetables","Macho Plantain Bananas",1,1,0,1,0,1,0,1,1,1,0,1,1,0,99,181,148,g,148,g,148,g,0,NULL,NULL,0.006689189189189189,healthy
+17,Produce,"Fresh Vegetables","Organic Produce - Packaged Vegetables Garlic - Peeled",1,1,1,1,1,1,0,1,1,1,1,1,1,0,399,5,4,g,172,g,172,g,0,NULL,NULL,0.023197674418604652,healthy
+18,Produce,"Fresh Fruits","Organic Blueberries Pint",1,1,1,1,1,1,0,1,1,1,0,1,1,0,499,84,148,g,148,g,148,g,0,NULL,NULL,0.03371621621621621,healthy
+19,Produce,"Fresh Vegetables","Organic Garnet Sweet Potato",1,1,0,1,1,1,0,1,1,1,0,1,1,0,249,112,130,g,130,g,130,g,0,NULL,NULL,0.019153846153846153,healthy
+20,Produce,"Fresh Vegetables","Slicing Cucumbers",1,1,1,1,0,1,1,1,1,1,0,1,1,0,500,8,52,g,104,g,104,g,0,NULL,NULL,0.04807692307692307,healthy
+21,Produce,"Fresh Fruits",Pineapple,1,1,0,1,0,1,0,1,1,1,0,1,1,0,399,84,165,g,165,g,165,g,0,NULL,NULL,0.02418181818181818,healthy
+22,Produce,"Fresh Fruits","Comice Pear",1,1,0,1,0,1,0,1,1,1,0,1,1,0,199,46,70,g,70,g,70,g,0,NULL,NULL,0.028428571428571428,healthy
+23,"Dairy and Eggs","Butter & margarine","Organic Whipped Buttery Spread",1,0,1,1,1,1,0,0,0,1,1,0,0,0,729,80,11,g,363,g,363,g,0,NULL,NULL,0.020082644628099177,healthy
+24,"Dairy and Eggs",Cheese,"Shredded Monterey Jack & Cheddar",0,0,1,0,0,0,1,0,1,0,0,0,0,0,429,110,28,g,224,g,224,g,0,NULL,NULL,0.019151785714285715,healthy
+25,"Dairy and Eggs",Cheese,Whitney,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2899,0,1,lb,1,lb,454,g,0,NULL,NULL,0.06385462555066079,unhealthy
+26,"Dairy and Eggs",Cheese,"Mini Original Semisoft Cheese (6-pk)",0,0,1,1,0,0,1,0,1,0,0,0,0,0,629,70,21,g,756,g,756,g,0,NULL,NULL,0.00832010582010582,healthy
+27,"Dairy and Eggs",Cheese,"Organic Cream Cheese",0,0,1,1,1,0,1,0,0,1,1,0,0,0,349,100,28,g,224,g,224,g,0,NULL,NULL,0.015580357142857142,healthy
+28,"Dairy and Eggs",Cheese,"Organic Cultured Lowfat Cottage Cheese",0,0,1,1,1,0,0,0,0,0,1,1,0,0,569,80,110,g,440,g,440,g,0,NULL,NULL,0.012931818181818181,healthy
+29,"Dairy and Eggs",Cheese,"Pavino Cheese",0,0,1,0,0,0,1,0,1,0,0,0,0,0,1499,110,28,g,1,lb,454,g,0,NULL,NULL,0.03301762114537445,healthy
+30,"Dairy and Eggs",Cheese,"Aged Mimolette",0,0,0,0,0,0,0,0,0,0,0,0,0,0,2099,0,1,lb,1,lb,454,g,0,NULL,NULL,0.046233480176211456,unhealthy
+31,"Dairy and Eggs",Cheese,"Bellavitano Merlot",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1899,0,1,lb,1,lb,454,g,0,NULL,NULL,0.04182819383259912,unhealthy
+32,"Dairy and Eggs",Yogurt,"Lactose Free Organic Plain Lowfat Yogurt",0,1,0,0,1,0,0,0,1,1,1,1,0,0,629,70,170,g,680,g,680,g,0,NULL,NULL,0.009250000000000001,healthy
+33,"Dairy and Eggs",Yogurt,"Artisan Almond Milk Strawberry Yogurt",0,0,0,0,0,1,0,0,0,1,0,0,0,0,249,170,150,g,150,g,150,g,0,NULL,NULL,0.0166,healthy
+34,"Dairy and Eggs",Yogurt,"Yobaby Peach / Pear Yogurt (6-pk)",0,1,0,1,1,0,0,0,0,1,1,0,0,0,539,100,113,g,2034,g,2034,g,0,NULL,NULL,0.0026499508357915435,healthy
+35,"Dairy and Eggs",Yogurt,"siggi‚Äôs Plant-Based Probiotic Coconut Drink Strawberry",0,1,0,0,0,1,0,0,0,1,1,0,0,0,279,140,237,ml,237,ml,237,g,0,NULL,NULL,0.011772151898734177,healthy
+36,"Dairy and Eggs",Yogurt,"Coconut Yogurt",1,0,0,1,0,1,0,0,0,1,0,0,0,0,429,210,142,g,142,g,142,g,0,NULL,NULL,0.030211267605633804,healthy
+37,"Dairy and Eggs",Yogurt,"Dairy Free Coconut Milk Yogurt Alternative Chocolate Vegan Non-GMO Project Verified",1,0,0,1,0,1,0,0,0,1,0,0,0,0,199,140,150,g,150,g,150,g,0,NULL,NULL,0.013266666666666666,healthy
+38,"Dairy and Eggs",Yogurt,"Mixed Berry Greek Drinkabe Yogurt",0,0,0,1,0,0,1,0,0,1,1,1,0,0,549,70,236,g,944,g,944,g,0,NULL,NULL,0.005815677966101694,healthy
+39,"Dairy and Eggs",Yogurt,"Vanilla Protein Yogurt",0,0,0,0,0,1,0,0,0,1,1,0,0,0,249,130,150,g,150,g,150,g,0,NULL,NULL,0.0166,healthy
+40,"Dairy and Eggs","Dairy alternatives","Coconut Yogurt Blueberry Lavender",1,0,0,1,0,1,0,1,0,1,0,0,0,0,319,220,142,g,142,g,142,g,0,NULL,NULL,0.022464788732394367,healthy
+41,"Dairy and Eggs","Dairy alternatives","Mixed Berries (5.3oz) Plant Based Coconut Blend",1,1,0,1,0,1,0,1,0,1,1,0,0,0,239,180,150,g,150,g,150,g,0,NULL,NULL,0.015933333333333334,healthy
+42,"Dairy and Eggs","Dairy alternatives","Organic Unsweetened Vanilla Almondmilk (64 Fl Oz)",1,0,1,1,1,1,1,1,1,0,1,1,1,0,369,40,240,ml,1920,ml,1920,g,0,NULL,NULL,0.0019218750000000002,healthy
+43,"Dairy and Eggs","Dairy alternatives","Vanilla Coconut Yogurt",0,0,0,1,1,0,0,0,0,0,1,0,0,0,229,90,125,g,125,g,125,g,0,NULL,NULL,0.01832,healthy
+44,"Dairy and Eggs","Dairy alternatives","Organic Coconutmilk Original",1,1,0,1,1,1,0,0,0,0,1,0,0,0,349,70,240,ml,960,ml,960,g,0,NULL,NULL,0.0036354166666666666,healthy
+45,"Dairy and Eggs","Dairy alternatives","Dairy Free Coconut Milk Yogurt Alternative Peach Vegan Non-GMO Project Verified",1,0,0,1,0,1,0,0,0,1,0,0,0,0,199,130,150,g,150,g,150,g,0,NULL,NULL,0.013266666666666666,healthy
+46,"Dairy and Eggs","Dairy alternatives","Coconut Yogurt",1,0,1,1,0,1,1,1,1,1,0,0,0,0,999,226,170,g,510,g,510,g,0,NULL,NULL,0.019588235294117646,healthy
+47,"Dairy and Eggs","Dairy alternatives","Cashew Beverage Original",0,0,0,0,0,1,0,0,0,1,0,0,0,0,429,70,240,ml,960,ml,960,g,0,NULL,NULL,0.0044687500000000005,healthy
+48,"Dairy and Eggs","Dairy alternatives","Double Cream Garlic Herb Cheese",1,1,0,1,1,1,1,0,0,0,1,0,0,0,1129,120,28,g,196,g,196,g,0,NULL,NULL,0.057602040816326534,healthy
+49,"Dairy and Eggs","Milk & cream","Organic Golden Moon Milk",0,0,0,1,1,0,0,0,0,0,1,0,0,0,599,160,240,ml,960,ml,960,g,0,NULL,NULL,0.006239583333333333,healthy
+50,"Dairy and Eggs","Milk & cream","Organic Chocolate Cream Top Whole Milk",0,0,0,1,1,0,0,0,0,1,1,0,0,0,299,230,240,ml,360,ml,360,g,0,NULL,NULL,0.008305555555555556,healthy
+51,"Dairy and Eggs","Milk & cream",Original,1,1,1,1,0,1,1,1,0,0,1,0,0,0,599,10,15,ml,750,ml,750,g,0,NULL,NULL,0.007986666666666666,healthy
+52,"Dairy and Eggs","Milk & cream","Organic Half & Half",0,0,1,1,1,0,1,0,0,1,0,0,0,0,349,40,30,ml,480,ml,480,g,0,NULL,NULL,0.007270833333333333,healthy
+53,"Dairy and Eggs","Milk & cream","Non Fat Milk",0,0,0,1,0,0,0,0,1,1,1,1,0,0,699,90,240,ml,3840,ml,3840,g,0,NULL,NULL,0.0018203125,healthy
+54,Meat,Turkey,"Organic oven roasted turkey breast",0,0,0,0,1,1,0,1,0,0,0,1,0,0,699,70,56,grams,0,NULL,168,g,0,NULL,NULL,0.041607142857142856,healthy
+55,Meat,Turkey,"Ground Turkey (Processed)",0,1,1,0,1,1,1,1,0,1,0,0,0,0,799,170,28,grams,0,NULL,112,g,0,NULL,NULL,0.07133928571428572,healthy
+56,Meat,Turkey,"Ground Turkey",0,1,1,0,1,1,1,1,0,1,0,0,0,0,999,120,28,grams,0,NULL,112,g,0,NULL,NULL,0.08919642857142858,healthy
+57,Meat,Turkey,"94% Lean ground turkey thigh",0,0,1,0,0,1,1,1,0,1,0,0,0,0,599,170,28,grams,0,NULL,112,g,0,NULL,NULL,0.05348214285714285,healthy
+58,Meat,Beef,"Sliced Roast Beef",0,0,0,0,0,1,0,0,0,0,0,1,0,0,599,90,56,grams,0,NULL,225,g,0,NULL,NULL,0.026622222222222224,healthy
+59,Meat,Beef,"Ground Beef 80% Lean/ 20% Fat",0,0,1,0,0,1,1,1,0,1,0,0,0,0,699,290,113,grams,0,NULL,454,g,0,NULL,NULL,0.015396475770925112,healthy
+60,Meat,Chicken,"Organic Whole Chicken",0,1,1,0,1,1,1,1,0,1,0,0,0,0,449,240,112,grams,0,NULL,960,g,0,NULL,NULL,0.0046770833333333334,healthy
+62,Meat,"Meat alternatives","Organic High Protein Tofu",1,0,1,1,1,1,1,0,1,1,1,0,0,0,419,130,91,grams,0,NULL,455,g,0,NULL,NULL,0.009208791208791207,healthy
+63,Meat,"Meat alternatives","Plant-Based Ultimate Chick'n Tenders",1,0,0,1,0,1,0,0,0,0,1,0,0,0,999,230,101,grams,0,NULL,404,g,0,NULL,NULL,0.02472772277227723,healthy
+64,Meat,"Meat alternatives","Organic Southwest Plant Taco Meatless Crumbles",1,0,1,1,1,1,1,0,0,0,1,0,0,0,739,90,24,grams,0,NULL,360,g,0,NULL,NULL,0.020527777777777777,healthy
+65,Meat,"Meat alternatives","Traditional Seitan Strips",1,0,0,1,0,1,1,0,0,0,0,1,0,0,499,130,85,grams,0,NULL,325,g,0,NULL,NULL,0.015353846153846154,healthy
+66,Meat,"Meat alternatives","Plant Based Crab Cakes",1,0,0,1,0,1,1,0,0,1,1,1,0,0,649,160,113,grams,0,NULL,640,g,0,NULL,NULL,0.010140625,healthy
+67,Meat,"Meat alternatives","Thai Curry Tofu Nuggets",1,1,0,1,1,1,0,0,0,0,1,1,0,0,629,160,85,grams,0,NULL,450,g,0,NULL,NULL,0.013977777777777778,healthy
+68,Meat,"Meat alternatives","Plant Based Ground",1,0,0,1,0,1,0,0,0,0,0,1,0,0,739,250,113,grams,0,NULL,750,g,0,NULL,NULL,0.009853333333333332,healthy
+69,Meat,"Meat alternatives","Organic Kombu",1,0,1,1,1,1,1,1,1,0,0,0,0,0,539,10,4,grams,0,NULL,120,g,0,NULL,NULL,0.04491666666666666,healthy
+72,Meat,Pork,"Pork Shoulder Butt Bnls S1",0,0,1,0,0,1,1,1,1,1,0,0,0,0,599,229,85,grams,0,NULL,454,g,0,NULL,NULL,0.013193832599118943,healthy
+73,Meat,Pork,"Boneless Pork Loin Chops",0,0,1,0,0,1,1,1,1,1,0,0,0,0,849,144,85,grams,0,NULL,454,g,0,NULL,NULL,0.01870044052863436,healthy
+74,"Prepared Foods","Prepared soups & salads","Split Pea Soup",1,1,0,1,0,1,0,0,0,0,0,0,0,0,849,140,245,g,24,oz,680,g,0,NULL,NULL,0.01248529411764706,healthy
+75,"Prepared Foods","Prepared meals","Organic Free Range Chicken",0,1,1,0,1,1,1,1,1,1,0,0,0,0,599,120,85,g,3,oz,85,g,0,NULL,NULL,0.07047058823529412,healthy
+76,"Prepared Foods","Prepared soups & salads","Greek Orzo Pasta Salad",0,0,0,0,0,0,1,0,0,0,0,0,0,0,599,320,6,oz,12,oz,284,g,0,NULL,NULL,0.02109154929577465,healthy
+77,"Prepared Foods","Prepared meals","Penne alla Vodka with Sausage",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1099,620,340,g,12,oz,340,g,0,NULL,NULL,0.03232352941176471,unhealthy
+78,"Prepared Foods","Prepared meals","Roast Salmon With Tomato Jam",0,0,0,0,0,1,1,0,0,0,0,0,0,0,1399,260,195,g,11.8,oz,335,g,0,NULL,NULL,0.04176119402985075,healthy
+79,"Prepared Foods","Prepared meals","General Tso Chicken Bowl",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1299,741,16.4,oz,16,oz,454,g,0,NULL,NULL,0.028612334801762115,healthy
+80,"Prepared Foods","Prepared meals","Paleo Friendly Salmon",0,0,1,0,0,1,1,1,0,0,0,0,0,0,2499,130,3,oz,1,lb,453,g,0,NULL,NULL,0.05516556291390729,healthy
+81,"Prepared Foods","Prepared meals","Spicy Salmon Avocado Roll",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1149,451,8.7,oz,8,oz,227,g,0,NULL,NULL,0.050616740088105724,healthy
+82,"Prepared Foods","Prepared meals","Spicy Shrimp Tempura Crunch Roll",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1349,480,254,g,254,g,254,g,0,NULL,NULL,0.053110236220472444,healthy
+83,"Prepared Foods","Prepared meals","No Bulgur Tabbouleh & Falafel with Tahini & Spinach",0,0,0,1,0,0,0,0,0,0,0,0,0,0,999,440,269,g,9.5,oz,269,g,0,NULL,NULL,0.037137546468401485,unhealthy
+84,"Prepared Foods","Prepared soups & salads","Italian Wedding Soup",0,0,0,0,0,1,0,0,0,0,0,0,0,0,499,200,14.5,oz,14.5,oz,411,g,0,NULL,NULL,0.012141119221411192,healthy
+85,"Prepared Foods","Prepared soups & salads","Chicken Tortilla Soup",0,1,0,0,0,1,1,0,0,0,0,0,0,0,849,110,245,g,24,oz,680,g,0,NULL,NULL,0.01248529411764706,healthy
+86,"Prepared Foods","Prepared meals","Creamy Butternut Mac‚Äã",1,0,0,1,0,1,0,0,0,0,0,0,0,0,999,650,397,g,14,oz,397,g,0,NULL,NULL,0.02516372795969773,healthy
+88,"Bread Rolls & Bakery",Breads,"Cream Cheese Brioche",0,0,0,0,0,0,0,0,0,0,0,0,0,0,839,140,50,g,14.1,oz,399.73,g,0,NULL,NULL,0.020989167688189526,unhealthy
+89,"Bread Rolls & Bakery",Breads,"Honey Heritage Whole Grain Bread",0,1,0,0,0,1,0,0,0,0,1,0,0,0,999,110,43,g,24,oz,680.39,g,0,NULL,NULL,0.014682755478475579,healthy
+91,"Bread Rolls & Bakery",Breads,"Sourdough Batard",1,0,0,1,0,1,1,0,0,0,0,1,0,0,700,150,57,g,16,oz,453.59,g,0,NULL,NULL,0.01543243898675015,healthy
+93,"Bread Rolls & Bakery",Breads,"Cactus Tortillas 10 count",1,1,0,1,0,1,1,0,1,0,0,1,1,0,799,30,22,g,220,g,220,g,0,NULL,NULL,0.03631818181818182,healthy
+94,"Bread Rolls & Bakery",Breads,"Scandinavian Oat Crispbread",1,0,1,1,0,1,1,0,1,1,1,1,1,0,399,20,8,g,3.6,oz,102.06,g,0,NULL,NULL,0.03909465020576131,healthy
+95,"Bread Rolls & Bakery",Breads,"Sourdough Baguette",1,0,0,1,0,1,1,0,0,0,0,1,0,0,350,150,50,g,10.5,oz,297.67,g,0,NULL,NULL,0.011757987032620014,healthy
+96,"Bread Rolls & Bakery",Breads,"Sliced 3 Seed Sourdough",1,0,0,1,0,1,1,0,0,0,0,1,0,0,699,100,43,g,24,oz,680.39,g,0,NULL,NULL,0.010273519599053484,healthy
+97,"Bread Rolls & Bakery",Breads,"Papadum Cumin",1,0,1,1,0,1,1,0,0,0,0,1,0,0,569,25,10,g,4.2,oz,119.07,g,0,NULL,NULL,0.0477870160409843,healthy
+98,"Bread Rolls & Bakery","Breakfast Bakery",Ladyfinger's,0,0,0,0,0,1,0,0,0,0,0,0,0,0,349,120,33,g,7,oz,198.45,g,0,NULL,NULL,0.017586293776769967,healthy
+99,"Bread Rolls & Bakery","Rolls & Buns","Soft Pretzel Sausage Buns",0,0,0,1,0,1,0,0,0,0,1,0,0,0,639,200,74,g,10.4,oz,294.83,g,0,NULL,NULL,0.02167350676661127,healthy
+100,"Bread Rolls & Bakery","Rolls & Buns","Two Bite Cinnamon Rolls",0,0,0,0,0,0,0,0,0,0,1,0,0,0,599,210,57,g,13,oz,368.54,g,0,NULL,NULL,0.016253323926846475,unhealthy
+101,"Bread Rolls & Bakery","Rolls & Buns","Multi-Grain One Bun Sandwich Buns",0,0,0,1,0,1,0,0,0,0,1,0,0,0,469,180,75,g,21,oz,595.34,g,0,NULL,NULL,0.00787785131185541,healthy
+102,"Bread Rolls & Bakery","Rolls & Buns","Apple Cinnamon Morning Rounds",0,0,0,1,0,1,0,0,0,0,1,1,0,0,429,150,60,g,12.7,oz,360.04,g,0,NULL,NULL,0.011915342739695588,healthy
+103,"Bread Rolls & Bakery","Rolls & Buns","Limited Edition Dinner Rolls 12 count",1,0,0,1,0,1,0,0,0,0,0,0,0,0,369,110,43,g,18,oz,510.29,g,0,NULL,NULL,0.007231182268905916,healthy
+104,"Bread Rolls & Bakery","Tortillas & Flat Breads","Cassava & Coconut Amazing Grain Free Tortilla",1,1,0,1,0,1,1,1,0,0,0,0,0,0,799,120,50,g,7,oz,198.45,g,0,NULL,NULL,0.04026203073822122,healthy
+105,"Bread Rolls & Bakery","Tortillas & Flat Breads","White Flour Tortilla",1,0,0,1,0,1,0,0,0,0,1,0,0,0,599,150,48,g,13.5,oz,382.72,g,0,NULL,NULL,0.015651128762541804,healthy
+106,"Bread Rolls & Bakery","Tortillas & Flat Breads","Olive Oil Sel Gris Flatbread Bites",1,0,0,1,1,1,0,0,0,0,0,1,0,0,599,80,28,g,4,oz,113.4,g,0,NULL,NULL,0.052821869488536156,healthy
+107,"Bread Rolls & Bakery","Tortillas & Flat Breads","Whole Grain Lavash Flatbread",0,0,0,1,0,1,0,0,0,1,1,1,1,0,419,100,57,g,10,oz,283.5,g,0,NULL,NULL,0.014779541446208112,healthy
+108,"Bread Rolls & Bakery","Tortillas & Flat Breads","Traditional Lavash Flatbread",0,0,0,1,0,1,0,0,0,1,1,1,0,0,419,120,57,g,10,oz,283.5,g,0,NULL,NULL,0.014779541446208112,healthy
+109,Desserts,"Ice cream & Frozen dessert","Mango Fruit Bars",1,0,0,1,0,1,0,0,1,1,1,1,0,0,349,120,118,g,16,"fl oz",454,g,0,NULL,NULL,0.007687224669603524,unhealthy
+110,Desserts,"Ice cream & Frozen dessert","Organic Frozen Ice Cream Coffee Chip",0,1,0,1,1,0,0,0,1,1,0,0,0,0,469,230,96,g,473,ml,473,g,0,NULL,NULL,0.009915433403805497,unhealthy
+111,Desserts,"Ice cream & Frozen dessert","Hong Kong Milk Team Ice Cream",0,0,0,0,0,0,0,0,0,0,0,0,0,0,999,220,98,g,473,ml,473,g,0,NULL,NULL,0.02112050739957717,unhealthy
+112,Desserts,"Ice cream & Frozen dessert","Ice Cream Sandwiches",0,0,0,1,1,0,0,0,1,0,1,0,0,0,599,170,65,g,21.9,"fl oz",621,g,0,NULL,NULL,0.00964573268921095,unhealthy
+113,Desserts,"Ice cream & Frozen dessert","Organic Assorted Junior Pops",1,0,0,1,1,1,0,0,0,0,1,0,0,0,699,70,148,g,1.65,"fl oz",47,g,0,NULL,NULL,0.14872340425531916,unhealthy
+114,Desserts,"Ice cream & Frozen dessert","Extra Creamy Vanilla Bean",0,0,0,0,0,0,0,0,0,1,0,0,0,0,199,160,4.4,oz,4.4,oz,125,g,0,NULL,NULL,0.01592,unhealthy
+115,Desserts,Cookies,"Chocolate Chip Cookies",0,0,0,1,0,0,0,0,0,1,0,0,0,0,699,260,1.67,oz,10,oz,284,g,0,NULL,NULL,0.02461267605633803,unhealthy
+116,Desserts,Cookies,"Chocolate Chip Cookies",0,0,0,1,0,0,0,0,0,0,1,0,0,0,649,140,28,g,7,g,198,g,0,NULL,NULL,0.032777777777777774,unhealthy
+117,Desserts,Cookies,"Classic Creme Mini Cookies",0,0,0,1,0,1,0,0,0,0,1,0,0,0,549,130,28,g,6,oz,170,g,0,NULL,NULL,0.03229411764705883,unhealthy
+118,Desserts,Cookies,"Peanut Butter Chocolate Chip Protein Cookie",1,1,0,1,0,1,0,0,0,1,0,0,0,0,269,160,42,g,2.96,oz,42,g,0,NULL,NULL,0.06404761904761905,unhealthy
+119,Desserts,"Muffins & Scones","Maple Apple Doughnut Muffins",0,0,0,0,0,0,0,0,0,0,0,0,0,0,799,110,30,g,9,oz,30,g,0,NULL,NULL,0.2663333333333333,unhealthy
+120,Desserts,"Muffins & Scones","Abe's Muffins Vegan Wild Blueberry Smash Mini-muffins",1,1,0,1,0,0,0,0,0,0,1,0,0,0,599,210,55,g,10,oz,55,g,0,NULL,NULL,0.1089090909090909,unhealthy
+121,Desserts,"Muffins & Scones","Blueberry Scone ",1,0,0,1,0,1,0,0,0,0,0,0,0,0,699,470,12,oz,12,oz,340,g,0,NULL,NULL,0.02055882352941176,unhealthy
+122,Desserts,"Pastries Brownies & Bars","Brownies ",1,0,0,1,0,1,0,0,0,0,0,0,0,0,799,320,10,oz,10,oz,284,g,0,NULL,NULL,0.02813380281690141,unhealthy
+123,Desserts,"Ice cream & Frozen dessert","Cookies & Cr√®me",0,1,0,0,0,1,0,0,0,1,0,0,0,0,699,180,95,g,473,ml,95,g,0,NULL,NULL,0.07357894736842105,unhealthy
+124,Desserts,"Ice cream & Frozen dessert","Vanilla Ice Cream ",0,1,0,0,0,0,0,0,0,1,1,0,0,0,639,200,96,g,1.4,lt,1400,g,0,NULL,NULL,0.004564285714285714,unhealthy
+125,Desserts,"Ice cream & Frozen dessert","Jeni's Buttercream Birthday Cake",0,0,0,0,0,0,0,0,0,0,0,0,0,0,899,310,112,g,473,ml,473,g,0,NULL,NULL,0.019006342494714588,unhealthy
+126,Desserts,"Ice cream & Frozen dessert","Ben & Jerry's vanilla Ice cream",0,1,0,0,0,0,0,0,0,1,1,0,0,0,649,330,143,g,473,ml,473,g,0,NULL,NULL,0.013720930232558139,unhealthy
+127,Desserts,"Cakes & Cupcakes","Ready-To-Eat Two-Bite Chocolate Cupcakes ",0,0,0,0,0,0,0,0,0,0,1,0,0,0,539,310,75,g,10.5,oz,298,g,0,NULL,NULL,0.018087248322147653,unhealthy
+128,Desserts,"Cakes & Cupcakes","Fig Almond Cake",1,0,0,1,0,1,0,1,1,0,0,0,0,0,1299,186,85,g,85,g,85,g,0,NULL,NULL,0.15282352941176472,unhealthy
+129,Desserts,Cookies,"Chocolate Chip Two-bite¬Æ Cookies",0,0,0,0,0,0,0,1,1,0,0,0,0,0,599,130,30,g,10.5,oz,298,g,0,NULL,NULL,0.020100671140939597,unhealthy
+130,Desserts,Cookies,"Tate's Bake Shop Chocolate Chip Cookies ",0,0,0,0,0,0,0,0,1,0,0,0,0,0,649,140,28,g,7,oz,198,g,0,NULL,NULL,0.032777777777777774,unhealthy
+131,Desserts,"Ice cream & Frozen dessert","Frozen Organic Ice Cream Vanilla Bean",0,1,0,1,1,0,0,1,1,0,0,0,0,0,469,200,157.67,ml,473,ml,473,g,0,NULL,NULL,0.009915433403805497,unhealthy
+132,Desserts,"Ice cream & Frozen dessert","Matchadoodle Ice Cream",0,0,0,0,0,0,0,0,0,0,0,0,0,0,999,170,157.67,ml,473,ml,473,g,0,NULL,NULL,0.02112050739957717,unhealthy
+133,supplements,specialty,"Original Plain Fresh Coconut Water Probiotic",1,0,1,1,0,1,1,1,1,0,0,0,0,0,2749,5,15,ml,443,g,44,g,0,NULL,NULL,0.6247727272727273,healthy
+137,supplements,functional-foods,"Organic Black Chia Seed",1,0,1,1,1,1,1,1,1,1,1,0,1,0,1449,160,30,g,425,g,43,g,0,NULL,NULL,0.3369767441860465,healthy
+138,supplements,functional-foods,"Organic Hulled Hemp Seed",1,0,1,1,1,1,1,1,1,1,1,0,1,0,1399,180,30,g,340,g,340,g,0,NULL,NULL,0.041147058823529405,healthy
+139,supplements,functional-foods,"Organic Hemp Hearts",1,0,1,1,1,1,1,1,1,1,1,0,1,0,1899,180,30,g,340,g,340,g,0,NULL,NULL,0.055852941176470584,healthy
+140,supplements,sports-nutrition-weight-management,"Organic Vanilla Plant Protein Powder",0,0,0,1,1,1,0,0,0,0,0,0,0,0,3249,160,37,g,555,g,555,g,0,NULL,NULL,0.058540540540540545,healthy
+141,supplements,sports-nutrition-weight-management,"Grass Fed Chocolate Whey Sport Protein Powder",0,1,1,1,0,0,1,0,0,1,0,1,0,0,5999,120,33,g,660,g,660,g,0,NULL,NULL,0.0908939393939394,healthy
+142,supplements,sports-nutrition-weight-management,"Organic Dark Chocolate Whey Protein",0,1,0,1,1,0,1,0,0,1,1,0,0,0,3399,110,28,g,340,g,340,g,0,NULL,NULL,0.0999705882352941,healthy
+144,supplements,sports-nutrition-weight-management,"Organic Pea Protein Powder",1,1,1,1,1,1,1,1,0,0,1,0,0,0,1699,70,20,g,454,g,454,g,0,NULL,NULL,0.03742290748898678,healthy
+152,supplements,vitamin-mineral,"Magnesium Lemon Fizz",1,0,0,1,0,1,0,1,0,0,0,0,0,0,1499,0,4,g,227,g,227,g,0,NULL,NULL,0.0660352422907489,healthy
+153,supplements,wellness-seasonal,"Organic Manuka Honey Drops",0,0,0,0,0,0,0,0,0,0,0,0,0,0,969,50,12,g,120,g,120,g,0,NULL,NULL,0.08074999999999999,unhealthy
+160,"Frozen Foods","Frozen Entrees & Appetizers","Grain-free Super Cauliflower Veggie Burger",1,1,0,1,0,1,1,0,0,0,1,0,0,0,599,180,78,g,312,g,312,g,0,NULL,NULL,0.01919871794871795,healthy
+161,"Frozen Foods","Frozen Entrees & Appetizers","Black Eyed Peas - No Salt Added",1,0,0,1,0,1,1,0,1,1,0,1,1,0,269,100,85,g,454,g,454,g,0,NULL,NULL,0.00592511013215859,healthy
+162,"Frozen Foods","Frozen Entrees & Appetizers","Dark Chocolate",1,1,0,1,1,1,0,0,0,1,1,0,0,0,899,230,117,g,414,g,414,g,0,NULL,NULL,0.021714975845410628,healthy
+163,"Frozen Foods","Frozen Entrees & Appetizers","Golden Banana Brownie Swirl",1,1,0,1,1,1,0,0,0,1,1,0,0,0,899,260,119,g,414,g,414,g,0,NULL,NULL,0.021714975845410628,healthy
+164,"Frozen Foods","Frozen Fruits & Vegetables","Bite Size Aloe Vera Cubes",1,0,1,1,0,1,1,1,1,1,1,1,1,0,699,2,3,oz,340,g,340,g,0,NULL,NULL,0.02055882352941176,healthy
+165,"Frozen Foods","Frozen Fruits & Vegetables","Organic Cauliflower Florets",1,0,1,1,1,1,1,1,1,1,0,1,1,0,319,20,85,g,454,g,454,g,0,NULL,NULL,0.007026431718061674,healthy
+166,"Frozen Foods","Frozen Fruits & Vegetables","Organic Coconut Medium",1,0,1,1,1,1,0,1,1,0,0,0,0,0,1099,0,0,NULL,0.97,lb,440,g,0,NULL,NULL,0.024977272727272726,healthy
+167,"Frozen Foods","Frozen Pizza","Cheese Pizza",0,0,0,0,1,0,0,0,0,0,1,0,0,0,999,290,123,g,369,g,369,g,0,NULL,NULL,0.02707317073170732,healthy
+168,"Frozen Foods","Frozen Pizza","Zucchini Rapini Pizza",0,0,0,0,0,0,0,0,0,0,0,0,0,0,879,960,130,g,389,g,389,g,0,NULL,NULL,0.022596401028277632,unhealthy
+169,"Frozen Foods","Ice Cream & frozen desserts","Gooey Butter Cake Ice Cream",0,0,0,0,0,0,0,0,0,0,0,0,0,0,899,330,121,g,473,ml,473,g,0,NULL,NULL,0.019006342494714588,unhealthy
+170,"Frozen Foods","Ice Cream & frozen desserts","Cashewmilk Salted Caramel Cluster",1,1,0,1,0,1,0,0,0,0,1,0,0,0,799,260,113,g,473,ml,473,g,0,NULL,NULL,0.01689217758985201,healthy
+171,"Frozen Foods","Ice Cream & frozen desserts","Half Baked Ice Cream",0,0,0,0,0,0,0,0,0,1,1,0,0,0,649,370,141,g,473,ml,473,g,0,NULL,NULL,0.013720930232558139,unhealthy
+172,"Frozen Foods","Ice Cream & frozen desserts","Salted Caramel Truffle Gelato",0,0,0,0,0,0,0,0,0,1,1,0,0,0,799,330,117,g,323.1,g,323,g,0,NULL,NULL,0.024736842105263158,unhealthy
+173,"Frozen Foods","Ice Cream & frozen desserts","Pie Ice Cream",0,0,0,0,0,0,0,0,0,0,0,0,0,0,839,220,107,g,414,ml,414,g,0,NULL,NULL,0.02026570048309179,unhealthy
+174,"Frozen Foods","Ice Cream & frozen desserts","Organic Hot Cocoa Ice Cream Sandwiches",0,0,0,1,1,0,0,0,0,0,1,0,0,0,399,190,70,g,648,ml,648,g,0,NULL,NULL,0.006157407407407407,healthy
+175,"Frozen Foods","Ice Cream & frozen desserts","Organic INT Chocolate Ice Cream Bar",0,0,0,1,1,0,0,0,0,0,1,0,0,0,469,250,78,g,266,ml,266,g,0,NULL,NULL,0.017631578947368422,healthy
+176,"Frozen Foods","Ice Cream & frozen desserts","Chocolate Birthday Ice Cream",0,0,0,0,0,0,0,0,0,0,0,0,0,0,649,430,137,g,414,ml,414,g,0,NULL,NULL,0.01567632850241546,unhealthy
+177,"Frozen Foods","Ice Cream & frozen desserts","Candy Cane Chocolate Chip Cornflake",0,0,0,0,0,0,0,0,0,0,0,0,0,0,839,380,132,g,414,ml,414,g,0,NULL,NULL,0.02026570048309179,unhealthy
+178,"Frozen Foods","Ice Cream & frozen desserts","Sea Salt Caramel Frozen Yoghurt Gelato",0,0,0,0,0,0,0,0,0,0,1,0,0,0,59900,260,115,g,414,ml,414,g,0,NULL,NULL,1.4468599033816425,unhealthy
+179,"Frozen Foods","Ice Cream & frozen desserts","Blue Jasmine Tea Handcrafted Ice Cream",0,0,0,0,0,0,0,0,0,0,0,0,0,1,899,250,158,ml,414,ml,414,g,0,NULL,NULL,0.021714975845410628,unhealthy
+180,"Frozen Foods","Frozen Entrees & Appetizers","Chicken Pot Pie",0,0,0,0,0,1,0,0,0,0,0,0,0,0,569,360,227,g,227,g,227,g,0,NULL,NULL,0.025066079295154187,healthy
+181,"Frozen Foods","Frozen Entrees & Appetizers","Strawberry Frozen Dessert",1,1,0,1,0,1,0,0,0,1,1,0,0,0,679,200,100,g,300,g,300,g,0,NULL,NULL,0.02263333333333333,healthy
+182,"Frozen Foods","Frozen Entrees & Appetizers","Mozzarella Sticks",0,0,0,0,0,0,0,0,0,0,0,0,0,0,449,320,88,g,227,g,227,g,0,NULL,NULL,0.019779735682819384,unhealthy
+183,Meat,Pork,"Natural Uncured Genoa Salami 4oz",0,0,0,0,0,1,0,0,0,0,0,0,0,0,699,100,28,g,112,g,112,g,0,NULL,NULL,0.06241071428571429,healthy
+184,Meat,Pork,"Sliced Prosciutto",0,1,1,0,0,1,1,1,0,0,0,0,0,0,799,120,56,g,56,g,56,g,0,NULL,NULL,0.14267857142857143,healthy
+185,Meat,Pork,"Organic Ground Pork",0,0,1,0,1,1,1,1,0,1,0,0,0,0,899,210,112,g,448,g,448,g,0,NULL,NULL,0.020066964285714285,healthy
+186,Meat,Pork,"Calabrese Sliced Spicy Salame",0,1,1,0,0,1,0,0,0,0,0,0,0,0,769,110,28,g,112,g,112,g,0,NULL,NULL,0.06866071428571428,healthy
+187,Meat,Pork,"Boneless Pork Loin Chops",0,0,1,0,0,1,1,1,1,1,0,0,0,0,849,144,85,g,453.6,g,453.6,g,0,NULL,NULL,0.018716931216931215,healthy
+188,Meat,Turkey,"Organic oven roasted turkey breast",0,0,0,0,1,1,0,1,0,0,0,1,0,0,699,70,56,g,168,g,168,g,0,NULL,NULL,0.041607142857142856,healthy
+189,Meat,Turkey,"94% Lean ground turkey thigh",0,0,1,0,0,1,1,1,0,1,0,0,0,0,599,170,28,g,112,g,112,g,0,NULL,NULL,0.05348214285714285,healthy
+190,Meat,Beef,"Beef Pastrami",0,0,0,0,0,1,0,0,0,0,0,1,0,0,1399,140,85,g,450.5,g,450.5,g,0,NULL,NULL,0.031054384017758046,healthy
+191,Meat,Beef,"Sliced Roast Beef",0,0,0,0,0,1,0,0,0,0,0,1,0,0,599,90,56,g,140,g,140,g,0,NULL,NULL,0.04278571428571429,healthy
+192,Meat,Chicken,"Organic Plain Rotisserie Chicken",0,0,1,0,0,1,1,1,0,1,0,0,0,0,1249,200,85,g,450.5,g,450.5,g,0,NULL,NULL,0.027724750277469477,healthy
+193,Meat,Bacon,"Wellshire Thick Sliced Dry Rubbed Uncured Bacon",0,0,1,0,0,1,0,0,0,0,0,0,0,0,999,50,12,g,132,g,132,g,0,NULL,NULL,0.07568181818181818,healthy
+194,Meat,"Hotdogs & sausage","365 Country Breakfast Pork Sausage",0,1,1,0,0,1,0,0,0,0,0,0,0,0,649,170,70,g,420,g,420,g,0,NULL,NULL,0.015452380952380954,healthy
+195,Meat,"Meat alternatives","365 Everyday Value Organic Extra Firm Tofu",1,0,1,1,1,1,1,0,1,1,1,0,1,0,269,80,84,g,378,g,378,g,0,NULL,NULL,0.007116402116402116,healthy
+196,Meat,"Meat alternatives","Cookout Classic Plant-Based Burger Patties 8 pk 32 oz",1,0,1,1,0,1,1,0,0,0,1,0,0,0,1899,290,133,g,904,g,904,g,0,NULL,NULL,0.021006637168141593,healthy
+197,Meat,"Meat alternatives","Plant-Based Ultimate Chick'n Tenders",1,0,0,1,0,1,0,0,0,0,1,0,0,0,999,230,101,g,404,g,404,g,0,NULL,NULL,0.02472772277227723,healthy
+198,Meat,"Meat alternatives","Traditional Seitan Strips",1,0,0,1,0,1,1,0,0,0,0,1,0,0,499,130,85,g,212.5,g,212.5,g,0,NULL,NULL,0.023482352941176468,healthy
+199,Meat,"Meat alternatives","Thai Curry Tofu Nuggets",1,1,0,1,1,1,0,0,0,0,1,1,0,0,629,160,85,g,450,g,450,g,0,NULL,NULL,0.013977777777777778,healthy
+200,Meat,"Meat alternatives","Plant Based Ground",1,0,0,1,0,1,0,0,0,0,0,1,0,0,739,250,113,g,339,g,339,g,0,NULL,NULL,0.021799410029498527,healthy
+201,Meat,"Meat alternatives","Organic Kombu",1,0,1,1,1,1,1,1,1,0,0,0,0,0,539,10,4,g,48,g,48,g,0,NULL,NULL,0.11229166666666666,healthy
+202,Meat,Seafood,"Tilapia Fillet",0,0,1,0,0,1,0,1,1,0,0,0,0,0,899,230,113,g,453.5,g,453.5,g,0,NULL,NULL,0.019823594266813672,healthy
+203,Meat,Seafood,"Frozen Farm-Raised Seafood Value Pack Atlantic Salmon Fillets",0,0,1,0,0,1,1,1,1,1,0,0,0,0,2999,240,113,g,904,g,904,g,0,NULL,NULL,0.033174778761061945,healthy
+204,Meat,Seafood,"Anchovy Fillets In Olive Oil",0,0,1,0,0,1,1,1,0,0,0,0,0,0,599,25,15,g,52.5,g,52.5,g,0,NULL,NULL,0.1140952380952381,healthy
+205,Beverages,Juice,"Kids Super Fruit Punch",0,0,0,1,1,1,0,0,1,0,0,1,0,0,549,40,1,8,6.75,"fl oz",200,g,1,NULL,NULL,0.027450000000000002,healthy
+206,Beverages,"Kombucha & Tea","Kombucha Ginger Lime",1,1,0,1,1,1,0,0,0,1,1,1,0,0,419,30,8,1.5,12,"fl oz",354,g,1,NULL,NULL,0.011836158192090395,healthy
+207,Beverages,"Kombucha & Tea","Kombucha Lvndr Can Org",1,0,0,1,1,1,0,0,0,1,0,1,0,0,369,45,12,1,12,"fl oz",354,g,1,NULL,NULL,0.010423728813559323,healthy
+208,Beverages,Coffee,"Organic Hundred Mile Blend Coffee",1,0,1,1,0,1,0,1,1,0,0,0,1,0,1699,0,0.5,24,12,oz,354,g,1,NULL,NULL,0.04799435028248587,healthy
+209,Beverages,"Soft Drinks","Organic Grapefruit Soda",1,0,0,1,1,1,0,0,0,1,0,1,0,0,449,140,11.2,4,44.8,"fl oz",1321,g,1,NULL,NULL,0.0033989401968205907,healthy
+210,Beverages,Tea,"Decaffeinated Breakfast Tea",1,0,1,1,0,1,0,1,1,0,0,0,1,0,839,0,1,50,4.41,oz,131,g,1,NULL,NULL,0.06404580152671756,healthy
+211,Beverages,Tea,"Caffeine Free Chamomile Tea",1,1,1,1,0,1,0,1,1,0,1,0,1,0,479,0,1,20,0.9,oz,27,g,1,NULL,NULL,0.1774074074074074,healthy
+212,Beverages,"Sports Energy & Nutritional Drinks","Pomegranate Liquid Energy",0,0,0,0,0,1,0,0,0,0,0,0,0,0,249,25,1,1,2,"fl oz",59,g,1,NULL,NULL,0.042203389830508475,healthy
+213,Beverages,Juice,"Mango Juice",1,1,0,1,0,1,0,0,1,1,1,1,0,0,449,120,8,4,33.8,"fl oz",997,g,1,NULL,NULL,0.004503510531594784,healthy
+214,Beverages,Tea,"Breath Deep",1,0,1,1,1,1,0,1,1,0,1,1,1,0,529,0,1,16,1.12,oz,34,g,1,NULL,NULL,0.15558823529411764,healthy
+215,Beverages,Tea,"Peach Yerba Mate",1,0,0,1,1,1,0,0,0,1,0,1,0,0,349,30,8,2,16,"fl oz",472,g,1,NULL,NULL,0.00739406779661017,healthy
+216,Beverages,"Soft Drinks","Organic Ground Coffee in Bag Vienna Roast - Pacific Rim",1,0,1,1,1,1,0,0,1,0,0,0,0,0,1049,0,0.5,48,24,oz,708,g,1,NULL,NULL,0.01481638418079096,healthy
+217,Beverages,Coffee,"Brew Organic Mocha Coffee Cold Brew",1,0,0,1,1,1,1,1,1,1,1,1,1,0,1049,15,8,4,32,"fl oz",944,g,1,NULL,NULL,0.01111228813559322,healthy
+218,Beverages,Juice,"Naked Green Machine Smoothie",1,0,0,1,0,1,0,0,0,1,1,1,0,0,349,270,15.2,1,15.2,"fl oz",449,g,1,NULL,NULL,0.0077728285077951,healthy
+219,Beverages,"Sports Energy & Nutritional Drinks","Organic Guava Passionfruit Energy Drink",1,0,0,1,1,1,0,0,0,1,1,1,0,0,249,60,12,1,12,"fl oz",354,g,1,NULL,NULL,0.007033898305084746,healthy
+220,Beverages,"Water Seltzer & Sparkling Water","Mountain Spring Water",1,0,1,1,1,1,0,1,1,0,0,0,1,0,1749,0,16.9,12,202.8,oz,5980,g,1,NULL,NULL,0.0029247491638795986,healthy
+221,Beverages,Tea,"Organic Matcha Powder",1,1,1,1,1,1,1,1,1,1,1,1,1,0,1499,10,1,70,5,oz,148,g,1,NULL,NULL,0.10128378378378379,healthy
+222,Beverages,Tea,"Organic Green Tea",1,0,1,1,1,1,0,1,1,0,1,0,1,0,319,0,1,70,4.9,oz,145,g,1,NULL,NULL,0.022000000000000002,healthy
+223,Beverages,Juice,"100% Orange Juice No Pulp (Not From Concentrate)",1,0,0,1,0,1,0,0,1,1,1,1,0,0,429,110,8,7,59,oz,1740,g,1,NULL,NULL,0.00246551724137931,healthy
+224,Beverages,Coffee,"Unsweetened Medium Roast Iced Coffee",1,0,0,1,0,1,0,1,1,1,1,1,1,0,599,15,12,4,48,"fl oz",1416,g,1,NULL,NULL,0.004230225988700565,healthy
+225,Beverages,"Water Seltzer & Sparkling Water","Organic Chocolate Coconut Smoothie",1,0,0,1,1,1,0,1,1,1,0,0,0,0,399,120,10,1,10,"fl oz",295,g,1,NULL,NULL,0.01352542372881356,healthy
+226,Beverages,Coffee,"Verve Seabright House Blend Whole Bean Coffee",1,0,1,1,0,1,1,1,1,1,0,1,1,0,1579,2.4,8,1.5,12,oz,354,g,1,NULL,NULL,0.044604519774011295,healthy
+227,"Snacks, Chips, Salsas & Dips",NULL,"Salted Restaurant Style Tortilla Chips",0,1,0,1,0,1,1,0,0,1,1,0,0,0,379,140,28,NULL,397,g,397,g,0,NULL,NULL,0.009546599496221662,unhealthy
+228,"Snacks, Chips, Salsas & Dips",NULL,"Peanut Butter Filled Pretezels",0,1,0,0,0,1,0,0,0,0,1,0,0,0,569,110,28,NULL,198,g,198,g,0,NULL,NULL,0.02873737373737374,unhealthy
+229,"Snacks, Chips, Salsas & Dips",NULL,"Grain Free Lime Tortilla Chips",1,1,0,1,0,1,1,1,0,1,0,0,0,0,499,130,28,NULL,142,g,142,g,0,NULL,NULL,0.03514084507042253,unhealthy
+230,"Snacks, Chips, Salsas & Dips",NULL,"Restaurant Style Dip Chips",1,1,0,1,0,1,1,1,0,1,0,0,0,0,499,130,28,NULL,142,g,142,g,0,NULL,NULL,0.03514084507042253,unhealthy
+231,"Snacks, Chips, Salsas & Dips",NULL,"Vegan White Cheddar Puffs",1,1,0,1,1,1,0,0,0,0,1,0,0,0,399,170,28,NULL,113,g,113,g,0,NULL,NULL,0.035309734513274335,unhealthy
+232,"Snacks, Chips, Salsas & Dips",NULL,"Sea Salt & Vinegar Potato Chips",1,1,0,1,0,1,1,0,0,0,1,0,0,0,679,140,28,NULL,368,g,368,g,0,NULL,NULL,0.01845108695652174,unhealthy
+233,"Snacks, Chips, Salsas & Dips",NULL,"Fine Ground Sea Salt Almond Flour Crakers",1,1,0,1,0,1,1,1,1,0,1,0,0,0,539,150,30,NULL,120,g,120,g,0,NULL,NULL,0.04491666666666666,unhealthy
+234,"Snacks, Chips, Salsas & Dips",NULL,"Gluten Free Original",0,1,0,0,0,1,0,0,0,0,0,0,0,0,499,45,13,NULL,155,g,155,g,0,NULL,NULL,0.032193548387096774,unhealthy
+235,"Snacks, Chips, Salsas & Dips",NULL,"Garlic and Herb Seed Crackers",1,1,0,1,1,1,1,1,1,0,1,0,0,0,539,150,30,NULL,120,g,120,g,0,NULL,NULL,0.04491666666666666,unhealthy
+236,"Snacks, Chips, Salsas & Dips",NULL,"Cheddar Cheese Nut-Thins",0,1,0,0,0,0,1,0,0,0,1,0,0,0,449,130,30,NULL,120.5,g,120.5,g,0,NULL,NULL,0.037261410788381744,unhealthy
+237,"Snacks, Chips, Salsas & Dips",NULL,"Organic Round Crackers",1,0,0,1,1,1,0,0,0,0,1,0,0,0,429,130,30,NULL,340,g,340,g,0,NULL,NULL,0.012617647058823529,unhealthy
+238,"Snacks, Chips, Salsas & Dips",NULL,"Mixed berry Granola Bars",1,1,0,1,1,1,0,0,0,1,1,0,0,0,599,100,24,NULL,144,g,144,g,0,NULL,NULL,0.04159722222222222,unhealthy
+239,"Snacks, Chips, Salsas & Dips",NULL,"Banana + Almond Butter Macrobar",1,1,0,1,1,1,0,0,0,1,1,0,0,0,349,280,65,NULL,65,g,65,g,0,NULL,NULL,0.053692307692307685,unhealthy
+240,"Snacks, Chips, Salsas & Dips",NULL,"Peanut Butter Protein Bar",0,0,0,1,0,1,0,0,1,0,1,0,0,0,279,200,52,NULL,52,g,52,g,0,NULL,NULL,0.05365384615384615,unhealthy
+241,"Snacks, Chips, Salsas & Dips",NULL,"Organic Peanut Butter Chocolate Chip Mini Macrobars 8 Pack",1,1,0,1,1,1,0,0,0,1,1,0,0,0,1099,110,25,NULL,200,g,200,g,0,NULL,NULL,0.05495,unhealthy
+242,"Snacks, Chips, Salsas & Dips",NULL,"Peanut Butter & Jelly Protein Popper",0,0,0,1,0,1,0,0,0,1,1,0,0,0,279,180,45,NULL,45,g,45,g,0,NULL,NULL,0.062,unhealthy
+243,"Snacks, Chips, Salsas & Dips",NULL,"Mango Halves Organic",1,0,0,1,1,1,0,1,1,1,1,1,1,0,999,130,10,NULL,227,g,227,g,0,NULL,NULL,0.04400881057268722,unhealthy
+244,"Snacks, Chips, Salsas & Dips",NULL,"Organic Pine Nuts",1,0,1,1,1,1,1,1,1,1,1,0,0,0,1029,190,30,NULL,113,g,113,g,0,NULL,NULL,0.09106194690265486,unhealthy
+245,"Snacks, Chips, Salsas & Dips",NULL,"Organic Dried Fruit California Raisins",1,0,0,1,1,1,0,1,1,1,1,1,1,0,529,120,40,NULL,340,g,340,g,0,NULL,NULL,0.015558823529411766,unhealthy
+246,"Snacks, Chips, Salsas & Dips",NULL,"Sourmelon Bites",1,0,0,1,0,1,1,0,0,1,0,1,0,0,999,80,30,NULL,150,g,150,g,0,NULL,NULL,0.0666,unhealthy
+247,"Snacks, Chips, Salsas & Dips",NULL,"Roasted Shelled Pistachios",1,0,1,1,0,1,1,1,1,0,1,0,0,0,1579,160,28,NULL,340,g,340,g,0,NULL,NULL,0.046441176470588236,unhealthy
+248,"Snacks, Chips, Salsas & Dips",NULL,"Organic Cheesy Puffs",0,1,0,1,1,0,1,0,0,0,0,0,0,0,529,160,30,NULL,113,g,113,g,0,NULL,NULL,0.046814159292035404,unhealthy
+249,"Snacks, Chips, Salsas & Dips",NULL,"Vegan White Cheddar Puffs",1,1,0,1,1,1,0,0,0,0,0,0,0,0,749,130,28,NULL,113,g,113,g,0,NULL,NULL,0.06628318584070797,unhealthy
+250,"Snacks, Chips, Salsas & Dips",NULL,"Organic Thick & Chunky Mild Salsa",1,0,1,1,1,1,1,1,1,1,0,1,1,0,399,10,30,NULL,454,g,454,g,0,NULL,NULL,0.008788546255506607,unhealthy
+251,"Snacks, Chips, Salsas & Dips",NULL,"Organic Thick And Chunky Mild Salsa",1,0,1,1,1,1,1,1,1,0,0,1,1,0,489,10,31,NULL,439,g,439,g,0,NULL,NULL,0.011138952164009112,unhealthy
+252,"Snacks, Chips, Salsas & Dips",NULL,"Dark Chocolate Coconut Bars",1,0,0,1,0,1,0,0,0,1,1,0,0,0,649,70,15,NULL,120,g,120,g,0,NULL,NULL,0.05408333333333333,unhealthy
+253,"Snacks, Chips, Salsas & Dips",NULL,"Vegan Marshmallows",0,1,0,0,0,1,0,0,0,1,1,1,0,0,479,100,28,NULL,283,g,283,g,0,NULL,NULL,0.016925795053003533,unhealthy
+254,"Snacks, Chips, Salsas & Dips",NULL,"Salty Dark Chocolate Bar",1,1,0,1,1,1,0,1,0,1,1,0,0,0,649,180,30,NULL,60,g,60,g,0,NULL,NULL,0.10816666666666666,unhealthy
+255,"Snacks, Chips, Salsas & Dips",NULL,"Covered Pretzels Dark Chocolate",0,0,0,0,0,0,0,0,0,0,1,0,0,0,469,130,30,NULL,142,g,142,g,0,NULL,NULL,0.03302816901408451,unhealthy
+256,Beer,"Hard Cider","Dry Apple Cider",1,0,1,1,0,1,1,1,0,0,0,0,0,0,3,160,12,NULL,1,NULL,340.19399999999996,g,1,6.9,1,0.0000881849768073511,unhealthy
+257,Beer,"Hard Kombucha","Midnight Painkiller",0,1,0,1,1,1,0,0,0,0,1,0,0,0,1399,150,12,NULL,6,NULL,2041.164,g,1,6,6,0.006853932364082454,unhealthy
+258,Beer,Beer,"Bud Light",1,0,0,0,0,1,1,0,0,0,0,0,0,0,1299,110,12,NULL,12,NULL,4082.328,g,1,4.2,12,0.003182007913131919,unhealthy
+259,Beer,"Hard Seltzer","Margarita Hard Seltzer 12pk Cans",1,1,0,1,0,1,0,1,0,0,0,0,0,0,1999,110,12,NULL,12,NULL,4082.328,g,1,5,12,0.004896715795497079,unhealthy
+260,Beer,Beer,"Variety Hard Seltzer 12pk Can",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1999,100,12,NULL,12,NULL,4082.328,g,1,5,12,0.004896715795497079,unhealthy
+261,Beer,"Hard Kombucha","Hard Kombucha Rotating Variety 6pk",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1699,136,12,NULL,6,NULL,2041.164,g,1,4.5,6,0.008323681977538307,unhealthy
+262,Beer,Beer,"White 6pk Cans",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1299,154,12,NULL,6,NULL,2041.164,g,1,5,6,0.006364015826263838,unhealthy
+263,Beer,Beer,"Ipa Phantom Bride Can 6pk ",1,0,0,0,0,1,0,1,0,0,0,0,0,0,1399,210,12,NULL,6,NULL,2041.164,g,1,7.1,6,0.006853932364082454,unhealthy
+264,Beer,Beer,"Free Wave Hazy IPA",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1199,70,12,NULL,6,NULL,2041.164,g,1,0.5,6,0.005874099288445221,healthy
+265,Beer,Beer,"Organic Variety Seltzer 12pk Cans",1,0,1,1,1,1,1,0,0,1,0,0,0,0,1899,80,12,NULL,12,NULL,4082.328,g,1,4,12,0.00465175752658777,unhealthy
+266,Wine,"Red Wine","Cabernet Sauvignon",1,0,0,1,0,1,0,1,0,0,0,0,0,0,499,120,25.4,NULL,1,NULL,720.0772999999999,g,1,12.5,1,0.006929811563286331,unhealthy
+267,Wine,"Red Wine","Red Blend",1,1,0,1,0,1,0,1,0,0,0,0,0,0,1199,210,25.4,NULL,1,NULL,720.0772999999999,g,1,5,1,0.01665099010897858,unhealthy
+268,Wine,"White Wine",Torrones,1,0,0,1,0,1,0,1,0,0,0,0,0,0,1299,220,25.4,NULL,1,NULL,720.0772999999999,g,1,13,1,0.01803972990122033,unhealthy
+269,Wine,"White Wine",Riesling,1,0,0,1,1,1,0,1,0,0,0,0,0,0,1229,600,25.4,NULL,1,NULL,720.0772999999999,g,1,13,1,0.017067612046651102,unhealthy
+270,Wine,"Red Wine","Cabernet Sauvignon",0,0,1,0,0,1,1,0,0,1,0,0,0,0,3299,125,25.4,NULL,1,NULL,720.0772999999999,g,1,13.3,1,0.04581452574605532,unhealthy
+271,Wine,"Red Wine","Claret Diamond Series",0,0,1,0,0,1,1,0,0,1,0,0,0,0,1749,122,25.4,NULL,1,NULL,720.0772999999999,g,1,13.5,1,0.024289058966308202,unhealthy
+272,Wine,"Red Wine","Cannonball Cabernet Sauvignon",0,0,1,0,0,1,1,0,0,1,0,0,0,0,1549,120,25.4,NULL,1,NULL,720.0772999999999,g,1,13.5,1,0.021511579381824703,unhealthy
+273,Wine,"Red Wine","Cabernet Sauvignon",0,0,1,0,0,1,1,0,0,1,0,0,0,0,1549,125,25.4,NULL,1,NULL,720.0772999999999,g,1,13.5,1,0.021511579381824703,unhealthy
+274,Wine,"Red Wine","Alexander Valley Cabernet Sauvignon",0,0,1,0,0,1,1,0,0,1,0,0,0,0,8799,620,25.4,NULL,1,NULL,720.0772999999999,g,1,14.5,1,0.12219521431935157,unhealthy
+275,Wine,"Red Wine","Chianti Classico DOCG Riserva",0,0,1,0,0,1,1,0,0,1,0,0,0,0,3699,125,25.4,NULL,1,NULL,720.0772999999999,g,1,14,1,0.05136948491502232,unhealthy
+276,Wine,"Red Wine","Cabernet Sauvignon",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1099,114,25.4,NULL,1,NULL,720.0772999999999,g,1,14,1,0.01526225031673683,unhealthy
+277,Wine,"White Wine","Mensch White Wine",0,0,0,0,0,0,0,0,0,0,1,0,0,0,2199,125,25.4,NULL,1,NULL,720.0772999999999,g,1,13.5,1,0.030538388031396076,unhealthy
+278,Wine,"Red Wine","Stella Black",0,0,0,0,0,1,0,0,0,1,0,0,0,0,1199,160,25.4,NULL,1,NULL,720.0772999999999,g,1,5,1,0.01665099010897858,unhealthy
+279,Wine,"White Wine","Moscato DOCG",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1899,118,25.4,NULL,1,NULL,720.0772999999999,g,1,5,1,0.02637216865467083,unhealthy
+280,Wine,"White Wine","Organic Pinot Grigio",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1649,123,25.4,NULL,1,NULL,720.0772999999999,g,1,13.5,1,0.02290031917406645,unhealthy
+281,Wine,Blend,"Bubbles Rose",1,0,0,1,0,1,0,1,0,0,0,0,0,0,599,125,12.7,NULL,1,NULL,360.03864999999996,g,1,12,1,0.016637102711056163,unhealthy
+282,Wine,Chardonnay,"Organic Grapes Chardonnay",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1999,80,25.4,NULL,1,NULL,720.0772999999999,g,1,13.5,1,0.027760908446912577,unhealthy
